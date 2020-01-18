@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/davodego
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://irgendwieanders.eu
+  * I am davodego (https://keybase.io/davodego) on keybase.
+  * I have a public key ASAuVplmOQTe8PkYhdz7azov5xgNm7WtLbc4IjRWNNqyHQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202e5699663904def0f91885dcfb6b3a2fe7180d9bb5ad2db73822345634dab21d0a",
+      "host": "keybase.io",
+      "kid": "01202e5699663904def0f91885dcfb6b3a2fe7180d9bb5ad2db73822345634dab21d0a",
+      "uid": "7aceca6d1b607686c4cebd36352cfe19",
+      "username": "davodego"
+    },
+    "merkle_root": {
+      "ctime": 1546548586,
+      "hash": "753b39b97333a0946b25c263be2cb26eb22c4ef307a70e110382b8a84924c24bd8e3d107bc3cd1e13f969f9f080e55be9288bf5a5ea13732064065b4150cdeab",
+      "hash_meta": "7aa3654fd99bdd199a5311b01cd8b4b3bd3d2f902a0f72aa5bd0c2125cdc8292",
+      "seqno": 4227448
+    },
+    "service": {
+      "entropy": "5Dn8ZGu03XgphS15FgA5Rnld",
+      "hostname": "irgendwieanders.eu",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.8.0"
+  },
+  "ctime": 1546548611,
+  "expire_in": 504576000,
+  "prev": "1c239a978f49c0cfed108d2e2fcc0e3a9fef9f40e1fcfe7721c0cd70377959d4",
+  "seqno": 62,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLlaZZjkE3vD5GIXc+2s6L+cYDZu1rS23OCI0VjTash0Kp3BheWxvYWTESpcCPsQgHCOal49JwM/tEI0uL8wOOp/vn0Dh/P53IcDNcDd5WdTEIO+tKIHGqD0wQ2VZgFH5Ttv1LexRbti6RplfDnvjgOAIAgHCo3NpZ8RAVxZSHxqPf8iwQ5iWKmOnOn4d3cl3l5SSSMwZc85VJOQhpKsRJDXsHF8R5EdoY1rDmYQwz2a+heXlA9dplizXBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDYVD1EZi61HCCLcoXl6sPVKL3aUA3kQP7W0eK0Unu50o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davodego
+
+==================================================================
