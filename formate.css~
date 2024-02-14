@@ -111,7 +111,7 @@ div#texte {margin:0px;
 	background-repeat: repeat-y;
 	background-position:center;
 	border:1px solid #c0bfbf;
-	min-height:280px;
+	min-height:780px;
 	border-bottom-left-radius: 20px; 
 	border-bottom-right-radius: 20px; 
 	-moz-border-radius-bottomleft: 20px; 
